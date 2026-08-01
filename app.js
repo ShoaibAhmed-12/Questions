@@ -141,6 +141,44 @@
 //     console.log(average)
 
 
-var prodacts = [
-    {}
-]
+var products = [
+    {
+        id: 101,
+        brand: "Xiaomi",
+        Title: "Earhpones",
+        variations: [
+            {id: 1, color: "Black", quantity: 10},
+            {id: 2, color: "White", quantity: 15},
+            {id: 3, color: "Blue", quantity: 7}
+        ],
+        price: 2000 
+    },
+    {
+        id: 102,
+        brand: "Samsung",
+        Title: "Earhpones",
+        variations: [
+            {id: 1, color: "Black", quantity: 20},
+            {id: 2, color: "White", quantity: 25},
+            {id: 3, color: "Green", quantity: 27}
+        ],
+        price: 3500 
+    },
+    {
+        id: 103,
+        brand: "Apple",
+        Title: "Earhpones",
+        variations: [
+            {id: 1, color: "Black", quantity: 20},
+            {id: 2, color: "White", quantity: 30}
+        ],
+        price: 2000 
+    },
+];
+  var totalQuantity = 0;
+// console.log(products[0].variations[0].quantity)
+// console.log(products[1].variations[1].quantity)
+for(i = 0; i<products.variations.length;i++){
+   totalQuantity = totalQuantity + products[i].variations.quantity
+}
+console.log(totalQuantity)
