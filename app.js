@@ -785,4 +785,3 @@ console.log(avrage)
 //  var avrage = totalReviews / reviewsCount
 //  console.log(`prodct ${products.id} = ${avrage}(${reviewsCount})`)
 // }
-
