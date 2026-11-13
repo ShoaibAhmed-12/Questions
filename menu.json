@@ -1,0 +1,426 @@
+[
+  {
+    "id": 13,
+    "name": "Classic Beef Burger",
+    "category": "Burgers",
+    "price": 650,
+    "description": "Juicy beef patty, cheese, lettuce and house sauce.",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Crispy Chicken Burger",
+    "category": "Burgers",
+    "price": 590,
+    "description": "Crunchy chicken fillet with creamy mayo and fresh salad.",
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 29,
+    "name": "Zinger Burger",
+    "category": "Burgers",
+    "price": 520,
+    "description": "Spicy crispy zinger fillet with mayo, lettuce and cheese.",
+    "image": "https://loremflickr.com/700/500/burger,chicken?lock=201"
+  },
+  {
+    "id": 30,
+    "name": "Chicken Cheese Burger",
+    "category": "Burgers",
+    "price": 620,
+    "description": "Grilled chicken patty topped with melted cheese and sauce.",
+    "image": "https://loremflickr.com/700/500/cheeseburger?lock=202"
+  },
+  {
+    "id": 31,
+    "name": "Double Beef Cheese Burger",
+    "category": "Burgers",
+    "price": 890,
+    "description": "Two beef patties, double cheese and our special sauce.",
+    "image": "https://loremflickr.com/700/500/doubleburger?lock=203"
+  },
+  {
+    "id": 32,
+    "name": "Smash Burger",
+    "category": "Burgers",
+    "price": 750,
+    "description": "Crispy edged smashed beef patty with caramelised onions.",
+    "image": "https://loremflickr.com/700/500/hamburger?lock=204"
+  },
+  {
+    "id": 33,
+    "name": "Grilled Chicken Burger",
+    "category": "Burgers",
+    "price": 640,
+    "description": "Juicy grilled chicken with fresh veggies and garlic mayo.",
+    "image": "https://loremflickr.com/700/500/burger,grilled?lock=205"
+  },
+  {
+    "id": 34,
+    "name": "Fish Burger",
+    "category": "Burgers",
+    "price": 580,
+    "description": "Crispy fish fillet with tartar sauce and lettuce.",
+    "image": "https://loremflickr.com/700/500/fishburger?lock=206"
+  },
+  {
+    "id": 35,
+    "name": "Chicken Paratha Roll",
+    "category": "Rolls",
+    "price": 350,
+    "description": "Chicken tikka pieces wrapped in a flaky paratha with chutney.",
+    "image": "https://loremflickr.com/700/500/wrap,roll?lock=211"
+  },
+  {
+    "id": 36,
+    "name": "Zinger Paratha Roll",
+    "category": "Rolls",
+    "price": 450,
+    "description": "Crispy zinger strips, salad and sauce in a hot paratha.",
+    "image": "https://loremflickr.com/700/500/wrap,chicken?lock=212"
+  },
+  {
+    "id": 37,
+    "name": "Beef Seekh Paratha Roll",
+    "category": "Rolls",
+    "price": 420,
+    "description": "Beef seekh kabab, onions and mint chutney in a paratha.",
+    "image": "https://loremflickr.com/700/500/kebabroll?lock=213"
+  },
+  {
+    "id": 38,
+    "name": "Chicken Tikka Roll",
+    "category": "Rolls",
+    "price": 400,
+    "description": "Smoky tikka chicken with raita sauce and onions.",
+    "image": "https://loremflickr.com/700/500/burrito?lock=214"
+  },
+  {
+    "id": 39,
+    "name": "Malai Boti Roll",
+    "category": "Rolls",
+    "price": 480,
+    "description": "Creamy malai boti rolled with fresh salad and sauce.",
+    "image": "https://loremflickr.com/700/500/wrap,sandwich?lock=215"
+  },
+  {
+    "id": 40,
+    "name": "Bihari Roll",
+    "category": "Rolls",
+    "price": 450,
+    "description": "Spicy bihari boti, onions and chutney in a soft paratha.",
+    "image": "https://loremflickr.com/700/500/tortilla,wrap?lock=216"
+  },
+  {
+    "id": 41,
+    "name": "Cheese Garlic Roll",
+    "category": "Rolls",
+    "price": 420,
+    "description": "Chicken, melted cheese and garlic sauce roll.",
+    "image": "https://loremflickr.com/700/500/rolls,food?lock=217"
+  },
+  {
+    "id": 1,
+    "name": "Chicken Tikka (Leg Piece)",
+    "category": "BBQ",
+    "price": 420,
+    "description": "Charcoal grilled chicken leg marinated in tikka masala.",
+    "image": "https://loremflickr.com/700/500/tikka,chicken?lock=101"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka (Chest Piece)",
+    "category": "BBQ",
+    "price": 450,
+    "description": "Juicy chest piece with smoky tikka spices.",
+    "image": "https://loremflickr.com/700/500/grilledchicken?lock=102"
+  },
+  {
+    "id": 3,
+    "name": "Beef Seekh Kabab (4 pcs)",
+    "category": "BBQ",
+    "price": 650,
+    "description": "Minced beef skewers with green chilli and fresh herbs.",
+    "image": "https://loremflickr.com/700/500/kebab?lock=103"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Malai Boti",
+    "category": "BBQ",
+    "price": 780,
+    "description": "Creamy, tender chicken boti grilled on charcoal.",
+    "image": "https://loremflickr.com/700/500/skewers?lock=104"
+  },
+  {
+    "id": 5,
+    "name": "Beef Bihari Boti",
+    "category": "BBQ",
+    "price": 890,
+    "description": "Smoky bihari style beef boti with a spicy marinade.",
+    "image": "https://loremflickr.com/700/500/bbq,meat?lock=105"
+  },
+  {
+    "id": 6,
+    "name": "Mutton Chops",
+    "category": "BBQ",
+    "price": 1650,
+    "description": "Soft mutton chops grilled slowly over live charcoal.",
+    "image": "https://loremflickr.com/700/500/lamb,chops?lock=106"
+  },
+  {
+    "id": 7,
+    "name": "Reshmi Kabab (4 pcs)",
+    "category": "BBQ",
+    "price": 720,
+    "description": "Silky smooth chicken kabab with a mild creamy taste.",
+    "image": "https://loremflickr.com/700/500/kebab,skewer?lock=107"
+  },
+  {
+    "id": 8,
+    "name": "Chapli Kabab (2 pcs)",
+    "category": "BBQ",
+    "price": 550,
+    "description": "Peshawari style beef chapli kabab, crispy and spicy.",
+    "image": "https://loremflickr.com/700/500/patty,grill?lock=108"
+  },
+  {
+    "id": 9,
+    "name": "BBQ Chicken Wings (8 pcs)",
+    "category": "BBQ",
+    "price": 680,
+    "description": "Smoky BBQ glazed wings served with dip.",
+    "image": "https://loremflickr.com/700/500/chickenwings?lock=109"
+  },
+  {
+    "id": 10,
+    "name": "Fish Tikka",
+    "category": "BBQ",
+    "price": 1150,
+    "description": "Marinated fish fillet grilled with lemon and spices.",
+    "image": "https://loremflickr.com/700/500/grilledfish?lock=110"
+  },
+  {
+    "id": 11,
+    "name": "Mix BBQ Platter (2 persons)",
+    "category": "BBQ",
+    "price": 2450,
+    "description": "Tikka, seekh kabab, malai boti and reshmi kabab with naan and raita.",
+    "image": "https://loremflickr.com/700/500/bbq,platter?lock=111"
+  },
+  {
+    "id": 12,
+    "name": "Family BBQ Platter (4 persons)",
+    "category": "BBQ",
+    "price": 4650,
+    "description": "Big mixed grill platter with naan, salad, raita and chutney.",
+    "image": "https://loremflickr.com/700/500/barbecue,grill?lock=112"
+  },
+  {
+    "id": 42,
+    "name": "Chicken Shawarma",
+    "category": "Shawarma",
+    "price": 300,
+    "description": "Classic chicken shawarma with garlic sauce and pickles.",
+    "image": "https://loremflickr.com/700/500/shawarma?lock=221"
+  },
+  {
+    "id": 43,
+    "name": "Zinger Shawarma",
+    "category": "Shawarma",
+    "price": 380,
+    "description": "Crispy zinger inside a shawarma wrap with special sauce.",
+    "image": "https://loremflickr.com/700/500/shawarma,wrap?lock=222"
+  },
+  {
+    "id": 44,
+    "name": "Beef Shawarma",
+    "category": "Shawarma",
+    "price": 420,
+    "description": "Tender beef strips, tahini sauce and fresh veggies.",
+    "image": "https://loremflickr.com/700/500/doner?lock=223"
+  },
+  {
+    "id": 45,
+    "name": "Shawarma Platter",
+    "category": "Shawarma",
+    "price": 780,
+    "description": "Shawarma meat with fries, hummus and pita bread.",
+    "image": "https://loremflickr.com/700/500/kebab,platter?lock=224"
+  },
+  {
+    "id": 46,
+    "name": "Chicken Karahi (Half)",
+    "category": "Karahi & Handi",
+    "price": 1450,
+    "description": "Desi style chicken karahi with tomatoes, ginger and green chilli.",
+    "image": "https://loremflickr.com/700/500/karahi?lock=231"
+  },
+  {
+    "id": 47,
+    "name": "Chicken Handi (Half)",
+    "category": "Karahi & Handi",
+    "price": 1350,
+    "description": "Creamy slow cooked chicken handi with rich masala.",
+    "image": "https://loremflickr.com/700/500/curry,chicken?lock=232"
+  },
+  {
+    "id": 48,
+    "name": "Mutton Karahi (Half)",
+    "category": "Karahi & Handi",
+    "price": 2400,
+    "description": "Tender mutton cooked in a traditional karahi.",
+    "image": "https://loremflickr.com/700/500/mutton,curry?lock=233"
+  },
+  {
+    "id": 15,
+    "name": "Cheese Pizza",
+    "category": "Pizza",
+    "price": 1250,
+    "description": "Golden crust with mozzarella and rich tomato sauce.",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Pepperoni Pizza",
+    "category": "Pizza",
+    "price": 1450,
+    "description": "A crowd favourite topped with pepperoni and cheese.",
+    "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 17,
+    "name": "Chicken Tikka Pizza",
+    "category": "Pizza",
+    "price": 1390,
+    "description": "Spicy tikka chicken, capsicum, onion and cheese.",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 18,
+    "name": "Chicken Biryani",
+    "category": "Biryani",
+    "price": 480,
+    "description": "Fragrant basmati rice with spicy chicken masala.",
+    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 19,
+    "name": "Beef Biryani",
+    "category": "Biryani",
+    "price": 580,
+    "description": "Slow cooked beef with aromatic rice and spices.",
+    "image": "https://loremflickr.com/700/500/biryani?lock=119"
+  },
+  {
+    "id": 49,
+    "name": "Chicken Alfredo Pasta",
+    "category": "Pasta",
+    "price": 850,
+    "description": "Creamy white sauce pasta with grilled chicken.",
+    "image": "https://loremflickr.com/700/500/pasta,alfredo?lock=241"
+  },
+  {
+    "id": 50,
+    "name": "Spicy Chicken Pasta",
+    "category": "Pasta",
+    "price": 780,
+    "description": "Penne in a spicy red sauce with chicken chunks.",
+    "image": "https://loremflickr.com/700/500/penne?lock=242"
+  },
+  {
+    "id": 20,
+    "name": "Loaded Fries",
+    "category": "Sides",
+    "price": 420,
+    "description": "Crispy fries topped with cheese and special seasoning.",
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 21,
+    "name": "Club Sandwich",
+    "category": "Sides",
+    "price": 550,
+    "description": "Toasted sandwich layered with chicken, egg and vegetables.",
+    "image": "https://images.unsplash.com/photo-1553909489-cd47e0ef937f?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 22,
+    "name": "Garlic Naan",
+    "category": "Sides",
+    "price": 90,
+    "description": "Soft tandoori naan brushed with garlic butter.",
+    "image": "https://loremflickr.com/700/500/naan?lock=122"
+  },
+  {
+    "id": 23,
+    "name": "Raita and Salad",
+    "category": "Sides",
+    "price": 150,
+    "description": "Fresh yogurt raita with crunchy salad.",
+    "image": "https://loremflickr.com/700/500/salad,yogurt?lock=123"
+  },
+  {
+    "id": 51,
+    "name": "Chicken Nuggets (6 pcs)",
+    "category": "Sides",
+    "price": 380,
+    "description": "Golden crispy nuggets served with ketchup and dip.",
+    "image": "https://loremflickr.com/700/500/nuggets?lock=251"
+  },
+  {
+    "id": 52,
+    "name": "Onion Rings",
+    "category": "Sides",
+    "price": 300,
+    "description": "Crunchy battered onion rings with sauce.",
+    "image": "https://loremflickr.com/700/500/onionrings?lock=252"
+  },
+  {
+    "id": 53,
+    "name": "Chicken Strips (5 pcs)",
+    "category": "Sides",
+    "price": 450,
+    "description": "Crispy chicken strips with garlic mayo dip.",
+    "image": "https://loremflickr.com/700/500/chickenstrips?lock=253"
+  },
+  {
+    "id": 24,
+    "name": "Fresh Lemonade",
+    "category": "Drinks",
+    "price": 220,
+    "description": "Refreshing lemon drink served chilled.",
+    "image": "https://images.unsplash.com/photo-1513558161293-cbef765edc7d?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 25,
+    "name": "Mango Smoothie",
+    "category": "Drinks",
+    "price": 300,
+    "description": "Creamy mango smoothie made with ripe mangoes.",
+    "image": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 26,
+    "name": "Soft Drink (345 ml)",
+    "category": "Drinks",
+    "price": 120,
+    "description": "Chilled soft drink of your choice.",
+    "image": "https://loremflickr.com/700/500/colabottle?lock=126"
+  },
+  {
+    "id": 27,
+    "name": "Chocolate Brownie",
+    "category": "Desserts",
+    "price": 350,
+    "description": "Rich chocolate brownie with a soft centre.",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=700&q=80"
+  },
+  {
+    "id": 28,
+    "name": "Chocolate Cake",
+    "category": "Desserts",
+    "price": 400,
+    "description": "A soft chocolate cake for your sweet cravings.",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=700&q=80"
+  }
+]
